@@ -1,0 +1,6 @@
+A notação Big O é usada para expressar a eficiência de um algoritmo, seja em termos de tempo de execução ou uso de memória, à medida que o tamanho da entrada aumenta. Alguns exemplos comuns são:
+
+O(1): Tempo constante, que não varia com o tamanho da entrada.
+O(log n): Tempo logarítmico, com crescimento lento conforme o aumento da entrada.
+O(n): Tempo linear, que cresce de forma proporcional ao tamanho da entrada.
+O(n^2): Tempo quadrático, cujo crescimento é proporcional ao quadrado do tamanho da entrada.

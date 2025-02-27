@@ -1,0 +1,9 @@
+Em C#, os Tipos de Dados Abstratos (TDAs) são modelos que definem comportamentos por meio de métodos e propriedades, sem revelar os detalhes de implementação. Eles oferecem uma interface para realizar operações, ocultando a forma como os dados são gerenciados internamente. Alguns exemplos incluem:
+
+Listas: Coleções de elementos organizados de forma ordenada.
+Pilhas (Stacks): Coleções que seguem o princípio LIFO (Last In, First Out).
+Filas (Queues): Coleções que seguem o princípio FIFO (First In, First Out).
+Dicionários: Estruturas que armazenam pares de chave-valor, proporcionando acesso e armazenamento eficientes.
+
+
+
